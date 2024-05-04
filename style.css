@@ -17,3 +17,9 @@ main{
     margin: 1em;
     padding: 1em;
 }
+
+footer{
+    margin: 1em;
+    padding: 1em;
+    border-top: 1px solid;
+}
